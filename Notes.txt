@@ -1,0 +1,1 @@
+Figure locations with street address over longitude and latitude
